@@ -22,7 +22,7 @@ public class ContaTerminal{
         String sobrenomeCliente = scanner.next();
 
 
-        System.out.println("Olá, " + nomeCliente + " " + sobrenomeCliente + ",obrigado por criar uma conta em nosso banco, sua agencia é "
+        System.out.println("Olá, " + nomeCliente + " " + sobrenomeCliente + ", obrigado por criar uma conta em nosso banco, sua agencia é "
          + agencia + ", conta " + conta + " e seu saldo " + saldo + " já está disponível para saque.");
     }
 
